@@ -2,9 +2,10 @@
 A simple Sudoku Solver using Backtracking, written in Python.
 
 Give an input as following:
+```
 <number of test cases>
 <9 lines of the sudoku, where an empty cell is given by 0>
-
+```
 For example:
 ```
 1
