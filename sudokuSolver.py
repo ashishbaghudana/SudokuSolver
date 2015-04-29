@@ -1,5 +1,3 @@
-import copy
-
 GRID_SIZE = 9
 
 def isFull(grid):
